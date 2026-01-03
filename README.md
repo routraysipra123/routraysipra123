@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sipra Routray</h1>
-<h3 align="center">Frontend Developer</h3>
-
-<p align="center">
-  <img src="!https://github.com/user-attachments/assets/37765ca0-eb60-4374-9333-334b786fee9e" width="350" />
-</p>
-
 # Hi 👋, I'm Sipra Routray  
 
 🎓 MCA Student | 💻 Python & AI Enthusiast  
 🚀 Aspiring Full-Stack Developer  
 
 ---
+<h1 align="center">Hi 👋, I'm Sipra Routray</h1>
+<h3 align="center">Frontend Developer</h3>
+
+<p align="center">
+  <img src="!https://github.com/user-attachments/assets/37765ca0-eb60-4374-9333-334b786fee9e" width="350" />
+</p>
 
 ## 👩‍💻 About Me
 - 🎓 MCA Student
